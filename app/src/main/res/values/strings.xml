@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coins</string>
+
+    <string name="main_screen_coin_list_title">Buy, sell and hold crypto</string>
+    <string name="main_screen_invite_friend_quote">You can earn 10  when you invite a friend to buy crypto.</string>
+    <string name="main_screen_invite_friend_span">Invite your friend</string>
+    <string name="main_screen_top_three_title_first_part">Top</string>
+    <string name="main_screen_top_three_title_second_part">3</string>
+    <string name="main_screen_top_three_title_third_part">rank crypto</string>
+    <string name="main_screen_error_content">Could not load data</string>
+    <string name="main_screen_try_again_button">Try again</string>
+    <string name="main_screen_empty_searching_title">Try again</string>
+    <string name="main_screen_empty_searching_body">No result match this keyword</string>
+    <string name="coin_detail_no_description">No description</string>
+    <string name="coin_detail_go_to_website">GO TO WEBSITE</string>
+</resources>
